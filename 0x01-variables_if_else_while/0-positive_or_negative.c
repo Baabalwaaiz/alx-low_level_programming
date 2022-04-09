@@ -4,7 +4,7 @@
 
 /**
  * main - Print random number and state
- * 	whethere it is negative, positive or zero
+ * whethere it is negative, positive or zero
  *
  * Return: 0
  */
