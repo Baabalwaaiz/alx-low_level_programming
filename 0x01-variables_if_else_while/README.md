@@ -7,3 +7,4 @@ Prints all single digit numbers of base 10
 Print single digit numbers using putchar only
 Print lowercase alphabets in reverse
 Print all hexadecimals in lowercase
+Print all possible combination of single digit numbers
