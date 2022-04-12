@@ -10,3 +10,4 @@ Print all hexadecimals in lowercase
 Print all possible combination of single digit numbers
 Print possible combination of two digits
 Different combination of three digits
+Combination of two digit numbers from 0-99
