@@ -9,3 +9,4 @@ Print lowercase alphabets in reverse
 Print all hexadecimals in lowercase
 Print all possible combination of single digit numbers
 Print possible combination of two digits
+Different combination of three digits
