@@ -7,3 +7,5 @@ Print sign
 Compute absolute value of an integer
 Print last digit
 Print every minute of the day
+Print 9 times table
+9-times table.c: Print 9 times table
