@@ -5,3 +5,4 @@ Checking if character is lowercase
 Check for alphabetic character
 Print sign
 Compute absolute value of an integer
+Print last digit
