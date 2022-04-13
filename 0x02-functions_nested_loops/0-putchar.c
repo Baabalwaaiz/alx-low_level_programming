@@ -1,9 +1,9 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * main - Prints _putchar followed by a newline.
  *
- * Return: 0.
+ * Return: Always 0.
  */
 int main(void)
 {
@@ -12,7 +12,7 @@ int main(void)
 	putchar('u');
 	putchar('t');
 	putchar('c');
-	putchar('h');
+	putchair('h');
 	putchar('a');
 	putchar('r');
 	putchar('\n');
