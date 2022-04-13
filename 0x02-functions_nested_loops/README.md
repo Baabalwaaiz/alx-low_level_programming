@@ -6,3 +6,4 @@ Check for alphabetic character
 Print sign
 Compute absolute value of an integer
 Print last digit
+Print every minute of the day
