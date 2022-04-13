@@ -12,7 +12,7 @@ int main(void)
 	putchar('u');
 	putchar('t');
 	putchar('c');
-	putchair('h');
+	putchar('h');
 	putchar('a');
 	putchar('r');
 	putchar('\n');
