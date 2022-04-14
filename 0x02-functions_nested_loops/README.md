@@ -9,3 +9,4 @@ Print last digit
 Print every minute of the day
 Print 9 times table
 9-times table.c: Print 9 times table
+10-add.c: Adds two integers
