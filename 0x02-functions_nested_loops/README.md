@@ -13,3 +13,4 @@ Print 9 times table
 11-print_to_98.c: Print numbers up to 98
 100-times_table.c: Print times table starting with 0
 101-natural.c: Prints sum of  all multiples of 3 or 5
+102-fibonacci.c: print first 50 fibonacci numbers
