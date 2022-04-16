@@ -10,3 +10,4 @@ Prints a square
 Prints FizzBuzz
 Prints triangle
 Prints largest prime factor of a number
+Prints an integer
