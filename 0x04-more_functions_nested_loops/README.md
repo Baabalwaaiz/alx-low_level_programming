@@ -9,3 +9,4 @@ Prints diagonal line in terminal
 Prints a square
 Prints FizzBuzz
 Prints triangle
+Prints largest prime factor of a number
