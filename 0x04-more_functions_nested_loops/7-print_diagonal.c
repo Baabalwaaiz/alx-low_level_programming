@@ -2,12 +2,12 @@
 
 /**
  * print_diagonal - Draws diagonal line followed by newline.
- * @n: Number of spaces 
+ * @n: Number of spaces.
  * Return: Always 0.
  */
 void print_diagonal(int n)
 {
-  int i, j;
+	int i, j;
 
 	if (n <= 0)
 		_putchar('\n');
