@@ -8,3 +8,4 @@ Prints line in terminal
 Prints diagonal line in terminal
 Prints a square
 Prints FizzBuzz
+Prints triangle
