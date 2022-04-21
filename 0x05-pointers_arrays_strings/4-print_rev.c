@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_rev - check the code for Holberton School students.
+ * print_rev - Prints string in reverse.
  * @s: String to be reverse printed
  * Return: Always 0.
  */
