@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * puts_half - check the code for Holberton School students.
+ * puts_half - Prints half of a string.
  * @str: String to be cut in half
  * Return: Always 0.
  */
