@@ -6,3 +6,4 @@ Print every other character of a string
 Print half of a string
 Prints elements of an array followed
 Copys string by a pointer
+Converts string to and integer
