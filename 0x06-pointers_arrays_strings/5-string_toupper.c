@@ -1,29 +1,28 @@
 #include "main.h"
-#include <stdio.h>
+
 /**
- * _strstr - Changes all lowercases of a string to uppercases
- * @haystack: Array to be searched
- * @needle: Target string
- * Return: Always zero
+ * string_toupper - changes all lowercases to uppercases.
+ * @str: String to be changed
+ * Return: Always 0.
  */
-char *_strstr(char *haystack, char *needle)
+char *string_toupper(char *str)
 {
 	int i, j;
+	char letter;
 
-	if (needle[0] == '\0')
-		return (haystack);
+	i = 0;
+	while (str[i] != '\0')
+		i++;
 
-	for (i = 0; haystack[i]; i++)
+	for (j = 0; j < i; j++)
 	{
-		for (j = 0; needle[j]; j++)
+		letter = str[j];
+		if (letter >= 'a' && letter <= 'z')
 		{
-			if (haystack[i + j] != needle[j])
-				break;
-
-			if (needle[i + j] == '\0')
-				return (haystack + i);
+			letter -= 32;
+			str[j] = letter;
 		}
 	}
 
-	return ('\0');
+	return (str);
 }
