@@ -3,7 +3,7 @@
 /**
  * _strstr - Changes all lowercases of a string to uppercases
  * @haystack: Array to be searched
- * @meedle: Target string
+ * @needle: Target string
  * Return: Always zero
  */
 char *_strstr(char *haystack, char *needle)
