@@ -6,3 +6,4 @@ Reverse content of an array
 Change lowercases of word to uppercases
 Capitalize all words of a string
 Encode a string into 1337
+Encode a string using rot13
