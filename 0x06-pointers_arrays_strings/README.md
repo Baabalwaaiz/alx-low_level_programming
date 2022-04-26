@@ -8,3 +8,4 @@ Capitalize all words of a string
 Encode a string into 1337
 Encode a string using rot13
 Prints and integer
+Magic print
