@@ -10,3 +10,4 @@ Encode a string using rot13
 Prints and integer
 Magic print
 Add two numbers and returns a pointer to the result
+Print a buffer
