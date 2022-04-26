@@ -9,3 +9,4 @@ Encode a string into 1337
 Encode a string using rot13
 Prints and integer
 Magic print
+Add two numbers and returns a pointer to the result
