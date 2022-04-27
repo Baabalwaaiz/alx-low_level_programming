@@ -4,3 +4,4 @@
  create mode 100644 0x07-pointers_arrays_strings/README.md
  create mode 100644 0x07-pointers_arrays_strings/main.h
 Fills memory with constantt bytes
+Function that copy memory area
