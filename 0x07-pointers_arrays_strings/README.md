@@ -9,3 +9,4 @@ Locates a  character in a string
 Gets the length of a prefix substring
 Searches for any set of bytes in a string
 Locates susbtring
+Prints chessboard
