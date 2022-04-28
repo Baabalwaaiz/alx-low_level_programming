@@ -11,3 +11,4 @@ Searches for any set of bytes in a string
 Locates susbtring
 Prints chessboard
 Print sum of two diagonals of a square matrix of integers
+Sets value of a pointer to a char
