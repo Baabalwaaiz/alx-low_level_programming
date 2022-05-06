@@ -4,3 +4,4 @@ Concatenate two strings
 Returns a pointer to a two dimensional array
 Frees a two dimensional grid of an array
 Concatenate all arguements of a programme into a string
+Splits a string into two
