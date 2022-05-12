@@ -5,3 +5,4 @@ Computes absolute value of a number
 Computes absolute value of a number
 Computes absolute value of a number
 Computes absolute value of a number
+Computes sum of two  numbers
