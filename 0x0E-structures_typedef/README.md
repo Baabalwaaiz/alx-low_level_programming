@@ -1,1 +1,1 @@
-Structure definition for dog
+ initializing struct dog
