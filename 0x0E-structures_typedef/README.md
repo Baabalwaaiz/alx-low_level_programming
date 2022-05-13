@@ -1,0 +1,1 @@
+Structure definition for dog
