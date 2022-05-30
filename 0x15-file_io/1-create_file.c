@@ -9,27 +9,26 @@
  * Return: 1 if success, -1 if failure
  */
 
-
-
 int create_file(const char *filename, char *text_content)
 {
-	int o, w, len = 0;
+	int fp, i = 0, char_printed;
 
 	if (filename == NULL)
 		return (-1);
 
-	if (text_content != NULL)
-	{
-		for (len = 0; text_content[len];)
-			len++;
-	}
+	fp = open(filename, (O_CREAT | O_TRUNC) | O_WRONLY, 0600);
 
-	o = open(filename, O_CREAT | O_RDWR | O_TRUNC, 0600);
-	w = write(o, text_content, len);
-
-	if (o == -1 || w == -1)
+	if (fp == -1)
 		return (-1);
 
-	close(o);
+	while (text_content[i] != '\0')
+		i++;
 
-	return (1);
+	char_printed = write(fp, text_content, i);
+	close(fp);
+
+	if (char_printed != -1)
+		return (1);
+	else
+		return (-1);
+}
