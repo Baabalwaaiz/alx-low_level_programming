@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdio.h>
-
+#include <stdlib.h>
 
 /**
  * create_file - Function that creates a file and fills it with stuff
