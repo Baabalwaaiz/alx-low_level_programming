@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
+#include <stdio.h>
 /**
  * read_textfile - read a certain size and prints to std output
  * @filename: file to read from
